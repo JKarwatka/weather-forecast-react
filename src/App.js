@@ -1,8 +1,9 @@
 import React from 'react'
+import CitySearchForm from './components/CitySearchForm'
 
 const App = () => (
   <div>
-    <h1>Hello There!</h1>
+    <CitySearchForm />
   </div>
 )
 
